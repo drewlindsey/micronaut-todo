@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: xyz.vapr
+---
+testFramework: junit
+sourceLanguage: java
